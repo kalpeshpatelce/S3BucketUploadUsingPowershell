@@ -2,7 +2,7 @@
 Upload the SQL Backup File from Local to S3 Bucket using Multi Thread Technology. Multiple Job running at a time to upload multiple file which is Controlled by  ThrottleLimit. 
 
 # Scenario
-one of the my Project need to required as below
+Project Requirement
 1) Everyday 400 files Backup from SQL Server & Stored in E:\SQLBackup.
 2) All the 400 Files must upload at S3 Bucket at 11:00 PM Everyday.
 3) All the 400 Files must be copied in Folder.
